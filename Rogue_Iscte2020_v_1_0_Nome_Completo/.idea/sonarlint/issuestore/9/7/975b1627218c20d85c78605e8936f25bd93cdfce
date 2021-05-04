@@ -1,0 +1,18 @@
+
+E
+java:S1128"/Remove this unused import 'java.util.Observer'.(«Öí·
+F
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+S
+java:S1128"=Remove this unused import 'pt.upskills.projeto.objects.Hero'.(Ö °‘
+`
+java:S1128"ERemove this unused import 'pt.upskills.projeto.objects.statics.Wall'.(¯×‹öúÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.util.Observable'.(Ê²ê¸
+F
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+T
+java:S5993"9Change the visibility of this constructor to "protected".(™ÓÌøøÿÿÿÿ
+D
+java:S2140G")Use "java.util.Random.nextInt()" instead.(ıÛÅÍúÿÿÿÿ

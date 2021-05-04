@@ -1,0 +1,13 @@
+#
+# 0 D room3.txt 0 key1
+# 1 E room1.txt 0
+WWWW0WWWWW
+W      s W
+W B      W
+WWW   T  W
+WrrrrrrrrW
+WrrrrrrrrW
+W   a  WWW
+WWW   G  W
+W     k  W
+WWW1WWWWWW

@@ -1,0 +1,14 @@
+
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+J
+java:S1128	"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'pt.upskills.projeto.gui.ImageMatrixGUI'.(‹ª¡Å
+F
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+P
+java:S1161'":Add the "@Override" annotation above this method signature(øÃïª
+D
+java:S2140(")Use "java.util.Random.nextInt()" instead.(ıÛÅÍúÿÿÿÿ

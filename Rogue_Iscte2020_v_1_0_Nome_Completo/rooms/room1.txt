@@ -1,0 +1,13 @@
+#
+# 0 D room2.txt 1
+# 1 E room0.txt 0
+WWWW0WWWWW
+W      s W
+WrrrW  B W
+WWWWW    W
+W  T rrrrW
+W    rrrrW
+W   a  WWW
+WWW      W
+W        W
+WWW1WWWWWW

@@ -1,0 +1,13 @@
+#
+# 0 E room2.txt 0
+# 1 P
+WWWWW1WWWW
+W  S   s W
+WrrrrrrrrW
+WrrrrrrrrW
+WrrrrrrrrW
+WrrrrrrrrW
+W B a  WWW
+WWW    T W
+W        W
+WWW0WWWWWW

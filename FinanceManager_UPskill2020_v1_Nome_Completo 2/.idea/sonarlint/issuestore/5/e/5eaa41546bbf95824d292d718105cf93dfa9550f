@@ -1,0 +1,47 @@
+
+`
+java:S1192""JDefine a constant instead of duplicating this literal "DRAFT_ACC" 3 times.(ΧΙΐ°
+b
+java:S1192g"LDefine a constant instead of duplicating this literal "description" 4 times.(‡»„
+[	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(¨¶ί
+`	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(ς”Τϊÿÿÿÿ
+`	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(‚λτ΅ώÿÿÿÿ
+[	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(«¤άΥ
+
+java:S1186;"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ς”Τϊÿÿÿÿ
+—
+java:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«¤άΥ
+‚
+java:S1130!"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¨¶ί
+t
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ύ†Ϊθÿÿÿÿÿ
+‡
+java:S1130?"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‚λτ΅ώÿÿÿÿ
+‘
+java:S1130X"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(δÒασόÿÿÿÿ
+
+java:S1130X"mRemove the declaration of thrown exception 'java.io.EOFException', as it cannot be thrown from method's body.(δÒασόÿÿÿÿ
+
+java:S1130X"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(δÒασόÿÿÿÿ
+µ
+java:S1130X"™Remove the declaration of thrown exception 'pt.upskill.projeto2.financemanager.exceptions.BadFormatException', as it cannot be thrown from method's body.(δÒασόÿÿÿÿ
+Ί
+java:S1130X"Remove the declaration of thrown exception 'pt.upskill.projeto2.financemanager.exceptions.UnknownAccountException', as it cannot be thrown from method's body.(δÒασόÿÿÿÿ
+’
+java:S1130‚"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(›ª™°ϋÿÿÿÿ
+‰
+java:S1130‚"mRemove the declaration of thrown exception 'java.io.EOFException', as it cannot be thrown from method's body.(›ª™°ϋÿÿÿÿ
+
+java:S1130‚"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(›ª™°ϋÿÿÿÿ
+¶
+java:S1130‚"™Remove the declaration of thrown exception 'pt.upskill.projeto2.financemanager.exceptions.BadFormatException', as it cannot be thrown from method's body.(›ª™°ϋÿÿÿÿ
+»
+java:S1130‚"Remove the declaration of thrown exception 'pt.upskill.projeto2.financemanager.exceptions.UnknownAccountException', as it cannot be thrown from method's body.(›ª™°ϋÿÿÿÿ
+’
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.( ΞΘ―ωÿÿÿÿ
+‰
+java:S1130"mRemove the declaration of thrown exception 'java.io.EOFException', as it cannot be thrown from method's body.( ΞΘ―ωÿÿÿÿ
+
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.( ΞΘ―ωÿÿÿÿ
+¶
+java:S1130"™Remove the declaration of thrown exception 'pt.upskill.projeto2.financemanager.exceptions.BadFormatException', as it cannot be thrown from method's body.( ΞΘ―ωÿÿÿÿ

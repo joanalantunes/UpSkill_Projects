@@ -1,0 +1,16 @@
+
+`
+java:S2095="EUse try-with-resources or close this "Scanner" in a "finally" clause.(Á§­æûÿÿÿÿ
+V
+java:S1128"@Remove this unused import 'javax.print.attribute.IntegerSyntax'.(· ü
+S
+java:S1854C"8Remove this useless assignment to local variable "date".(úÄÓøÿÿÿÿ
+V	java:S125x"<This block of commented-out lines of code should be removed.(éá¡ıÿÿÿÿ
+i
+java:S1871Á"MThis branch's code block is the same as the block for the branch on line 191.(„“Ë£øÿÿÿÿ
+i
+java:S1871Ç"MThis branch's code block is the same as the block for the branch on line 197.(µúš—úÿÿÿÿ
+D
+java:S1481C")Remove this unused "date" local variable.(úÄÓøÿÿÿÿ
+E
+java:S1068"/Remove this unused "typeAccount" private field.(’‘Œ

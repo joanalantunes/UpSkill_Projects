@@ -1,0 +1,12 @@
+
+_
+java:S1192$"IDefine a constant instead of duplicating this literal "GASOLINA" 3 times.(ΣΨ½
+d
+java:S1192!"IDefine a constant instead of duplicating this literal "PURCHASE" 3 times.(ΘΐΩσÿÿÿÿÿ
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚λτ΅ώÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‚λτ΅ώÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "c".(ύΟ
+<
+java:S1481"&Remove this unused "c" local variable.(ύΟ
